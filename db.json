@@ -1,7 +1,7 @@
 { 
     "data" : [
       {
-        "TopCrowsel" : [
+        "TopCarousel" : [
           {
             "id" : 1,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-11/winter_PC-masthead-WEB.png"
@@ -230,7 +230,7 @@
           }
         ],
       
-        "Chemist Store" : [
+        "ChemistStore" : [
           {
             "id" : 1,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/434549a.jpg?ts=1633497471",
@@ -352,7 +352,7 @@
             "price" : 60
           }
         ],
-        "Biscuits_Snacks_Chocolates" : [
+        "BiscuitsSnacksChocolates" : [
           {
             "id" : 1,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/313249a.jpg?ts=1648546100",
@@ -459,7 +459,7 @@
             "price" : 204
           }
         ],
-        "Personal_Care" : [
+        "PersonalCare" : [
           {
             "id" : 1,
             "image1" : "https://cdn.grofers.com/app/images/products/full_screen/pro_481223.jpg?ts=1645618562",
