@@ -462,42 +462,6 @@
         "PersonalCare" : [
           {
             "id" : 1,
-            "image" : "https://cdn.grofers.com/app/images/products/full_screen/pro_481223.jpg?ts=1645618562",
-            "image2" : "https://cdn.grofers.com/app/images/products/sliding_image/481223a.jpg",
-            "image3" : "https://cdn.grofers.com/app/images/products/sliding_image/481223b.jpg",
-            "image4" : "https://cdn.grofers.com/app/images/products/sliding_image/481223c.jpg",
-            "image5" : "https://cdn.grofers.com/app/images/products/sliding_image/481223d.jpg",
-            "title" : "Plum BodyLovin' Trippin' Mimosas Shower Gel",
-            "quantity" : "240 ml",
-            "price" : 112,
-            "off" : "20% off",
-            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
-            "product_detail" : [
-              {
-                "Shelf Life" : "24 Months"
-              },
-              {
-                "Return Policy" : "7 Days"
-              },
-              {
-                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
-              },
-              {
-                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
-              },
-              {
-                "Country of Origin" : "India"
-              },
-              {
-                "Customer Care Email" : "Email: info@blinkit.com"
-              },
-              {
-                "Customer Care Number" : "1-800-208-8888"
-              }
-            ]
-          },
-          {
-            "id" : 2,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/23888a.jpg?ts=1625059794",
             "title" : "Head & Shoulders Anti Dandruff",
             "quantity" : "650 ml",
@@ -529,7 +493,7 @@
             ]
           },
           {
-            "id" : 3,
+            "id" : 2,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19184a.jpg?ts=1655986575",
             "title" : "Colgate Strong Teeth Anticavity Toothpaste",
             "quantity" : "500 g",
@@ -561,7 +525,7 @@
             ]
           },
           {
-            "id" : 4,
+            "id" : 3,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19481a.jpg?ts=1599494478",
             "title" : "Pears Pure & Gentle Soap",
             "quantity" : "3 x 125 g",
@@ -593,7 +557,7 @@
             ]
           },
           {
-            "id" : 5,
+            "id" : 4,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/30786a.jpg?ts=1606819878",
             "title" : "Himalaya Purifying Neem Face Wash",
             "quantity" : "200 ml",
@@ -625,7 +589,7 @@
             ]
           },
           {
-            "id" : 6,
+            "id" : 5,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/392004a.jpg",
             "title" : "Parachute 100% Pure Coconut Oil",
             "quantity" : "600 ml",
@@ -657,7 +621,7 @@
             ]
           },
           {
-            "id" : 7,
+            "id" : 6,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/18623a.jpg?ts=1667385999",
             "title" : "Bajaj Almond Drops Hair Oil",
             "quantity" : "475  ml",
@@ -689,7 +653,7 @@
             ]
           },
           {
-            "id" : 8,
+            "id" : 7,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/56516a.jpg?ts=1646825497",
             "title" : "Lotus Herbals 3-in-1 Matt Look Daily",
             "quantity" : "100 g",
@@ -721,7 +685,7 @@
             ]
           },
           {
-            "id" : 9,
+            "id" : 8,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/377965a.jpg",
             "title" : "Nivea Men Fresh Active Original",
             "quantity" : "2 x 150 ml",
@@ -753,7 +717,7 @@
             ]
           },
           {
-            "id" : 10,
+            "id" : 9,
             "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/27758a.jpg",
             "title" : "L'Oreal Paris Casting Creme Gloss Hair",
             "quantity" : "87.5 g + 72 ml",
