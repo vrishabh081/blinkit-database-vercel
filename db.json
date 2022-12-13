@@ -1,9 +1,792 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+{ 
+    "data" : [
+      {
+        "TopCrowsel" : [
+          {
+            "id" : 1,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-11/winter_PC-masthead-WEB.png"
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-11/Winter_FB-masthead-WEB.png"
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-10/gifting-store-Banner-Web.jpg"
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-11/Winter_HH-masthead-WEB.png"
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=225/layout-engine/2022-09/Tea-RN.jpg"
+          }
+        ],
+      
+        "HomePageItems" : [
+          {
+            "id" : 1,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-12/paan-corner_web.png"
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-2_10.png"
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-3_9.png"
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-4_9.png"
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-5_4.png"
+          },
+          {
+            "id" : 6,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-6_5.png"
+          },
+          {
+            "id" : 7,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-7_3.png"
+          },
+          {
+            "id" : 8,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-8_4.png"
+          },
+          {
+            "id" : 9,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-9_3.png"
+          },
+          {
+            "id" : 10,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-10.png"
+          },
+          {
+            "id" : 11,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-11.png"
+          },
+          {
+            "id" : 12,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-12.png"
+          },
+          {
+            "id" : 13,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-13.png"
+          },
+          {
+            "id" : 14,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-14.png"
+          },
+          {
+            "id" : 15,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-15.png"
+          },
+          {
+            "id" : 16,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-16.png"
+          },
+          {
+            "id" : 17,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-17.png"
+          },
+          {
+            "id" : 18,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-18.png"
+          },
+          {
+            "id" : 19,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-19.png"
+          },
+          {
+            "id" : 20,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/layout-engine/2022-11/Slice-20.png"
+          }
+        ],
+      
+        "EverydayMustHaves" : [
+          {
+            "id" : 1,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/383480a.jpg?ts=1669367058",
+            "title" : "Maggi Masala",
+            "category" : "Noodles",
+            "quantity" : "12 x 70 g",
+            "price" : 157
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/266441a.jpg?ts=1641276407",
+            "title" : "Britannia Good Day",
+            "category" : "Biscuit",
+            "quantity" : "600 g",
+            "price" : 111
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/690a.jpg?ts=1643793143",
+            "title" : "Borges Spaghetti",
+            "category" : "Pasta",
+            "quantity" : "500 g",
+            "price" : 164
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/15366a.jpg?ts=1670226369",
+            "title" : "Britannia Toastea",
+            "category" : "Bake Rusk",
+            "quantity" : "250 g",
+            "price" : 41
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/88352a.jpg?ts=1664958180",
+            "title" : "Knorr Hot & Sour",
+            "category" : "Vegetable Soup",
+            "quantity" : "41 g",
+            "price" : 53
+          },
+          {
+            "id" : 6,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/18471a.jpg?ts=1592078199",
+            "title" : "Lotte Choco Pie",
+            "category" : "Cake",
+            "quantity" : "336 g",
+            "price" : 129
+          },
+          {
+            "id" : 7,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/426661a.jpg?ts=1614079911",
+            "title" : "Tata Tea Premium",
+            "category" : "Tea",
+            "quantity" : "1.5 kg",
+            "price" : 500
+          },
+          {
+            "id" : 8,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19293a.jpg?ts=1623312000",
+            "title" : "Haldiram's Bhujia",
+            "category" : "Bhujiya",
+            "quantity" : "1 kg",
+            "price" : 273
+          },
+          {
+            "id" : 9,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/67372a.jpg?ts=1655989914",
+            "title" : "Kurkure Masala",
+            "category" : "Crisps",
+            "quantity" : "82 g",
+            "price" : 20
+          },
+          {
+            "id" : 10,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/11170a.jpg?ts=1655472060",
+            "title" : "Britannia Milk Bikis",
+            "category" : "Milk Sandwich",
+            "quantity" : "200 g",
+            "price" : 48
+          },
+          {
+            "id" : 11,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/410824a.jpg",
+            "title" : "Dabur 100% Pure",
+            "category" : "Honey",
+            "quantity" : "2 x 225 g",
+            "price" : 116
+          },
+          {
+            "id" : 12,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/373664a.jpg?ts=1615201256",
+            "title" : "Kellogg's Chocos",
+            "category" : "Fills Double",
+            "quantity" : "250 g",
+            "price" : 175
+          },
+          {
+            "id" : 13,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/110755a.jpg?ts=1643358003",
+            "title" : "Parle Melody",
+            "category" : "Chocolaty Candy",
+            "quantity" : "175.95 g",
+            "price" : 50
+          },
+          {
+            "id" : 14,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/367837a.jpg?ts=1608196690",
+            "title" : "Kurkure Puffcorn",
+            "category" : "Yummy Cheese",
+            "quantity" : "55 g",
+            "price" : 20
+          },
+          {
+            "id" : 15,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/187235a.jpg?ts=1635924751",
+            "title" : "Lipton Honey Lemon",
+            "category" : "Grean Tea",
+            "quantity" : "25 units",
+            "price" : 146
+          }
+        ],
+      
+        "Chemist Store" : [
+          {
+            "id" : 1,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/434549a.jpg?ts=1633497471",
+            "title" : "Durex Invisible",
+            "category" : "Super Ultra Thin",
+            "quantity" : "10 units",
+            "price" : 335
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/36700a.jpg?ts=1633495615",
+            "title" : "Durex Play Intimate",
+            "category" : "Sweet Strawberry",
+            "quantity" : "50 ml",
+            "price" : 347
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/24323a.jpg?ts=1643966797",
+            "title" : "Moov Instant Pain",
+            "category" : "Relief Spray",
+            "quantity" : "50 g",
+            "price" : 193
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/479305a.jpg?ts=1641301819",
+            "title" : "Krishna PPE Kit",
+            "category" : "Covid kit",
+            "quantity" : "1 unit",
+            "price" : 497
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/68342a.jpg?ts=1643539202",
+            "title" : "Dettol Original",
+            "category" : "Alcohol Based Handwash",
+            "quantity" : "200 ml",
+            "price" : 90
+          },
+          {
+            "id" : 6,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/479984a.jpg?ts=1658754150",
+            "title" : "Karam K-Air",
+            "category" : "Disposable Surgical Mask",
+            "quantity" : "1 pack (50 pieces)",
+            "price" : 700
+          },
+          {
+            "id" : 7,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/436985a.jpg",
+            "title" : "Savlon BIS Certified",
+            "category" : "FFP2 S Mask",
+            "quantity" : "1 piece",
+            "price" : 81
+          },
+          {
+            "id" : 8,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/990a.jpg",
+            "title" : "Pudin Hara Active",
+            "category" : "Drops",
+            "quantity" : "30 ml",
+            "price" : 54
+          },
+          {
+            "id" : 9,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/476976a.jpg",
+            "title" : "Hansaplast Washproof",
+            "category" : "Hansaplast",
+            "quantity" : "1 pack (8 strips)",
+            "price" : 22
+          },
+          {
+            "id" : 10,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/330348a.jpg",
+            "title" : "Savlon Antiseptic",
+            "category" : "Liquid",
+            "quantity" : "200 ml",
+            "price" : 86
+          },
+          {
+            "id" : 11,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/309634a.jpg?ts=1664518296",
+            "title" : "Nestle Ceregrow Growing Up Baby",
+            "category" : "Nestle food",
+            "quantity" : "300 g",
+            "price" : 310
+          },
+          {
+            "id" : 12,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/477244a.jpg",
+            "title" : "3M 9513 Respirator KN95 Face Mask",
+            "category" : "Mask",
+            "quantity" : "1 unit",
+            "price" : 89
+          },
+          {
+            "id" : 13,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/23850a.jpg?ts=1664882316",
+            "title" : "Eno Lemon Antacid",
+            "category" : "Eno",
+            "quantity" : "30 g",
+            "price" : 51
+          },
+          {
+            "id" : 14,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/1017a.jpg?ts=1635923134",
+            "title" : "Vicks VapoRub Chest rubs",
+            "category" : "Vicks",
+            "quantity" : "25 ml",
+            "price" : 88
+          },
+          {
+            "id" : 15,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/111676a.jpg?ts=1635870663",
+            "title" : "Vicks Original Inhaler",
+            "category" : "Inhaler",
+            "quantity" : "0.5 ml",
+            "price" : 60
+          }
+        ],
+        "Biscuits_Snacks_Chocolates" : [
+          {
+            "id" : 1,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/313249a.jpg?ts=1648546100",
+            "title" : "Sunfeast Dark Fantasy Biscuit",
+            "quantity" : "300 g",
+            "price" : 112
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/424025a.jpg?ts=1621068567",
+            "title" : "4700BC Nutty Tuxedo Chocolate",
+            "quantity" : "150 g",
+            "price" : 203
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19293a.jpg?ts=1623312000",
+            "title" : "Haldiram's Bhujia",
+            "quantity" : "1 kg",
+            "price" : 273
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/18471a.jpg?ts=1592078199",
+            "title" : "Lotte Choco Pie - 12 units",
+            "quantity" : "336 g",
+            "price" : 129
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/439142a.jpg?ts=1668151731",
+            "title" : "Lay's American Style Cream & Onion",
+            "quantity" : "2 x 100 g",
+            "price" : 86
+          },
+          {
+            "id" : 6,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/392931a.jpg?ts=1644494108",
+            "title" : "Britannia NutriChoice",
+            "quantity" : "1 kg",
+            "price" : 176
+          },
+          {
+            "id" : 7,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/34338a.jpg",
+            "title" : "Bikano Shahi Mixture Namkeen",
+            "quantity" : "1 kg",
+            "price" : 230
+          },
+          {
+            "id" : 8,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/15366a.jpg?ts=1670226369",
+            "title" : "Britannia Toastea Premium Bake Rusk",
+            "quantity" : "250 g",
+            "price" : 41
+          },
+          {
+            "id" : 9,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/127096a.jpg?ts=1668060015",
+            "title" : "Nestle Munch Chocolate Coated",
+            "quantity" : "160.2 g",
+            "price" : 100
+          },
+          {
+            "id" : 10,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/383615a.jpg?ts=1670415742",
+            "title" : "KitKat 2 Finger Wafer Bar Share",
+            "quantity" : "119 g",
+            "price" : 100
+          },
+          {
+            "id" : 11,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/439144a.jpg?ts=1668414440",
+            "title" : "Lay's India's Magic Masala Chips - Pack",
+            "quantity" : "2 x 100 g",
+            "price" : 86
+          },
+          {
+            "id" : 12,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/401228a.jpg?ts=1653665108",
+            "title" : "Bingo Mad Angles Masala Madness",
+            "quantity" : "12 x 66 g",
+            "price" : 36
+          },
+          {
+            "id" : 13,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/375328a.jpg?ts=1653994680",
+            "title" : "Kurkure Puffcorn Yummy Cheese",
+            "quantity" : "3 x 55 g",
+            "price" : 51
+          },
+          {
+            "id" : 14,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/406267a.jpg?ts=1666082856",
+            "title" : "Agra Petha by Haldiram's",
+            "quantity" : "350 g",
+            "price" : 149
+          },
+          {
+            "id" : 15,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/42154a.jpg?ts=1665044921",
+            "title" : "Rasgulla by Bikano",
+            "quantity" : "1 kg",
+            "price" : 204
+          }
+        ],
+        "Personal_Care" : [
+          {
+            "id" : 1,
+            "image1" : "https://cdn.grofers.com/app/images/products/full_screen/pro_481223.jpg?ts=1645618562",
+            "image2" : "https://cdn.grofers.com/app/images/products/sliding_image/481223a.jpg",
+            "image3" : "https://cdn.grofers.com/app/images/products/sliding_image/481223b.jpg",
+            "image4" : "https://cdn.grofers.com/app/images/products/sliding_image/481223c.jpg",
+            "image5" : "https://cdn.grofers.com/app/images/products/sliding_image/481223d.jpg",
+            "title" : "Plum BodyLovin' Trippin' Mimosas Shower Gel",
+            "quantity" : "240 ml",
+            "price" : 112,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 2,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/23888a.jpg?ts=1625059794",
+            "title" : "Head & Shoulders Anti Dandruff",
+            "quantity" : "650 ml",
+            "price" : 544,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 3,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19184a.jpg?ts=1655986575",
+            "title" : "Colgate Strong Teeth Anticavity Toothpaste",
+            "quantity" : "500 g",
+            "price" : 211,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 4,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/19481a.jpg?ts=1599494478",
+            "title" : "Pears Pure & Gentle Soap",
+            "quantity" : "3 x 125 g",
+            "price" : 215,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 5,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/30786a.jpg?ts=1606819878",
+            "title" : "Himalaya Purifying Neem Face Wash",
+            "quantity" : "200 ml",
+            "price" : 226,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 6,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/392004a.jpg",
+            "title" : "Parachute 100% Pure Coconut Oil",
+            "quantity" : "600 ml",
+            "price" : 231,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 7,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/18623a.jpg?ts=1667385999",
+            "title" : "Bajaj Almond Drops Hair Oil",
+            "quantity" : "475  ml",
+            "price" : 281,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 8,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/56516a.jpg?ts=1646825497",
+            "title" : "Lotus Herbals 3-in-1 Matt Look Daily",
+            "quantity" : "100 g",
+            "price" : 372,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 9,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/377965a.jpg",
+            "title" : "Nivea Men Fresh Active Original",
+            "quantity" : "2 x 150 ml",
+            "price" : 380,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          },
+          {
+            "id" : 10,
+            "image" : "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=135/app/images/products/sliding_image/27758a.jpg",
+            "title" : "L'Oreal Paris Casting Creme Gloss Hair",
+            "quantity" : "87.5 g + 72 ml",
+            "price" : 535,
+            "off" : "20% off",
+            "Disclaimer" : "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+            "product_detail" : [
+              {
+                "Shelf Life" : "24 Months"
+              },
+              {
+                "Return Policy" : "7 Days"
+              },
+              {
+                "Manufacturer Details" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Marketed By" : "Aarvee Enterprises, D222/39, TTC Industrial Area, MIDC, Shirvane, Nerul, Navi Mumbai, 400706, Maharashtra, India. Mfg Lic No. MH/102156"
+              },
+              {
+                "Country of Origin" : "India"
+              },
+              {
+                "Customer Care Email" : "Email: info@blinkit.com"
+              },
+              {
+                "Customer Care Number" : "1-800-208-8888"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+    
+  }
+  
