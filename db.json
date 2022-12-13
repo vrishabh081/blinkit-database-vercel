@@ -462,7 +462,7 @@
         "PersonalCare" : [
           {
             "id" : 1,
-            "image1" : "https://cdn.grofers.com/app/images/products/full_screen/pro_481223.jpg?ts=1645618562",
+            "image" : "https://cdn.grofers.com/app/images/products/full_screen/pro_481223.jpg?ts=1645618562",
             "image2" : "https://cdn.grofers.com/app/images/products/sliding_image/481223a.jpg",
             "image3" : "https://cdn.grofers.com/app/images/products/sliding_image/481223b.jpg",
             "image4" : "https://cdn.grofers.com/app/images/products/sliding_image/481223c.jpg",
